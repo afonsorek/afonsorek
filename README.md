@@ -13,4 +13,4 @@ Languages and Tools
   
 </p>
 
-<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&hide_title=false&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"/>
+<img align="center" height='130px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&hide_title=false&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"/>
