@@ -1,5 +1,5 @@
 <h1 align="center">
-Welcome! My name is Afonso :)
+Welcome! My name is Afonso 👋
 </h1>
 <p align="center">
   IOS developer at the Apple Developer Academy, independent multiplatform developer (Node, React, Flutter, etc.) and student in the 5th period of Computer Science at PUCPR. A Top Charts app published on the App Store and 7 other apps produced. 5 years experience in programming and data management in the family business. Winner of the Rocket 2023 Marathon. Skills in working with multidisciplinary and eclectic teams, experience in using APIs, MVC and MVVM architectures and design patterns.
@@ -15,6 +15,32 @@ Welcome! My name is Afonso :)
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
+<br>
+
+<h2 align="center">
+  Apple Developer Academy
+</h2>
+
+<p align="center">
+- App in third place in the Top Charts music games (You Producer)
+- I've produced several other apps and helped with numerous projects.
+- CNV, daily meetings, flexibility, diverse and multidisciplinary teams.
+- Personal development in the area of Design (UI/UX)
+- I've used various APIs, Apple Frameworks and different software.
+</p>
+
+<br>
+
+<h2 align="center">
+  Maratona Rocket 2023
+  <a href="https://redeglobo.globo.com/rpc/realities/rocket-startup/cidades-inteligentes/noticia/maratona-rocket-equipe-pinhaoneiros-e-a-vencedora-do-desafio.ghtml">Oficial Publication</a>
+</h2>
+
+<p align="center">
+Winner of Maratona Rocket 2023, an ideas hackathon focused on Smart Cities.
+</p>
+
+<br>
 
 <h2 align="center">
   Code Wars
