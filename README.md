@@ -1,5 +1,5 @@
-<div align="center">
-**Languages and Tools**
+<div align="center" text-weight:bold>
+Languages and Tools
 </div>
 
 <p align="center">
