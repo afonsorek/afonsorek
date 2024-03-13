@@ -22,17 +22,17 @@ Welcome! My name is Afonso 👋
 </h2>
 
 <p align="center">
-- App in third place in the Top Charts music games (You Producer)
-- I've produced several other apps and helped with numerous projects.
-- CNV, daily meetings, flexibility, diverse and multidisciplinary teams.
-- Personal development in the area of Design (UI/UX)
+- App in third place in the Top Charts music games (You Producer)<br>
+- I've produced several other apps and helped with numerous projects.<br>
+- CNV, daily meetings, flexibility, diverse and multidisciplinary teams.<br>
+- Personal development in the area of Design (UI/UX)<br>
 - I've used various APIs, Apple Frameworks and different software.
 </p>
 
 <br>
 
 <h2 align="center">
-  Maratona Rocket 2023
+  Maratona Rocket 2023<br>
   <a href="https://redeglobo.globo.com/rpc/realities/rocket-startup/cidades-inteligentes/noticia/maratona-rocket-equipe-pinhaoneiros-e-a-vencedora-do-desafio.ghtml">Oficial Publication</a>
 </h2>
 
