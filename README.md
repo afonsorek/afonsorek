@@ -11,11 +11,15 @@ Welcome! My name is Afonso :)
 <br>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+
 <div align="center">
-  
+  Code Wars
+  <img src="https://www.codewars.com/users/AfonsoRek/badges/large">
+</div>
+<div align="center">
 Languages and Tools
 </div>
-
 <p align="center">
   <div align="center">
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
