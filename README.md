@@ -22,11 +22,8 @@ Welcome! My name is Afonso 👋
 </h2>
 
 <p align="center">
-- App in third place in the Top Charts music games (You Producer)<br>
-- I've produced several other apps and helped with numerous projects.<br>
-- CNV, daily meetings, flexibility, diverse and multidisciplinary teams.<br>
-- Personal development in the area of Design (UI/UX)<br>
-- I've used various APIs, Apple Frameworks and different software.
+<strong>App in third place in the Top Charts music games (You Producer) </strong><br>
+I've produced several other apps and helped with numerous projects. Great personal development in the area of Design (UI/UX) and opportunities to use various APIs, Apple Frameworks and different software.
 </p>
 
 <br>
