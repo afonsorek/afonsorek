@@ -21,8 +21,8 @@ Welcome! My name is Afonso 👋
 General Stats
 </h2>
 <p align='left'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afonsorek&show_icons=true&theme=radical" height='300px'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afonsorek&show_icons=true&theme=radical" height='500px'>
 </p>
 
 <br>
