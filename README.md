@@ -58,8 +58,6 @@ Languages and Tools
 <br>
 <p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=afonsorek&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&show_icons=true&theme=radical">
 </p>
 <br>
-<p align='left'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&show_icons=true&hide_border=true&theme=radical">
-</p>
