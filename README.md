@@ -56,7 +56,10 @@ Languages and Tools
   </div>
 </p>
 <br>
-<p align='left'>
+<h2 align="left">
+General Stats
+</h2>
+<p align='left', justify='top'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=afonsorek&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&show_icons=true&theme=radical">
 </p>
