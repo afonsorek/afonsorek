@@ -57,5 +57,9 @@ Languages and Tools
 </p>
 <br>
 <p align='left'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afonsorek&theme=dark&show_icons=true&theme=radical">
+</p>
+<br>
+<p align='left'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&show=true&show_icons=true&hide_border=true&theme=radical">
 </p>
