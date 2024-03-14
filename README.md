@@ -18,6 +18,16 @@ Welcome! My name is Afonso 👋
 <br>
 
 <h2 align="left">
+General Stats
+</h2>
+<p align='left'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&show_icons=true&style=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afonsorek&show_icons=true&theme=radical">
+</p>
+
+<br>
+
+<h2 align="left">
   Apple Developer Academy
 </h2>
 
@@ -54,13 +64,5 @@ Languages and Tools
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   </div>
-</p>
-<br>
-<h2 align="left">
-General Stats
-</h2>
-<p align='left', display=flex>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsorek&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afonsorek&show_icons=true&theme=radical">
 </p>
 <br>
