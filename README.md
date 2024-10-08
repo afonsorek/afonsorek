@@ -2,7 +2,7 @@
 Welcome! My name is Afonso 👋
 </h1>
 <p align="center">
-  IOS developer at the Apple Developer Academy, independent multiplatform developer (Node, React, Flutter, etc.) and student in the 5th period of Computer Science at PUCPR. A Top Charts app published on the App Store and 7 other apps produced. 5 years experience in programming and data management in the family business. Winner of the Rocket 2023 Marathon. Skills in working with multidisciplinary and eclectic teams, experience in using APIs, MVC and MVVM architectures and design patterns.
+  IOS developer at the Apple Developer Academy, independent multiplatform developer (Node, React, Flutter, etc.) and student in the 6th period of Computer Science at PUCPR. A Top Charts app published on the App Store and 7 other apps produced. 5 years experience in programming and data management in the family business. Winner of the Rocket 2023 Marathon. Skills in working with multidisciplinary and eclectic teams, experience in using APIs, MVC and MVVM architectures and design patterns.
 </p>
 <p align="center">
 <br>
